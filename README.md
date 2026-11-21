@@ -1,5 +1,7 @@
 # 🎮 PS5 Fedora Project
 
+assets/Logo_fedoralogo.png
+
 [![Fedora](https://img.shields.io/badge/OS-Fedora%2045-blue?logo=fedora)](https://getfedora.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-PlayStation%205-black?logo=playstation)](https://github.com/ps5-linux)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -16,6 +18,13 @@
 - PS5 - Fedora Manager
 - PS5 - Fedora Addons-Scripts
 - PS5 - Fedora Guides
+
+### 🌐 Fedora
+
+- Fedora : [fedoraproject.org](https://fedoraproject.org) - [fedora-fr.org](https://www.fedora-fr.org)
+- Fedora Wiki : [fedoraproject wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki) - [wiki fedora-fr](https://doc.fedora-fr.org/)
+- FlatHub : [flathub](https://flathub.org)
+- Gnome Extensions : [extensions.gnome](https://extensions.gnome.org)
 
 ## 🤝 Credits & Acknowledgments
 
