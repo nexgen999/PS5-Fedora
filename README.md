@@ -30,7 +30,7 @@
 - PS5 - Fedora (Gaming Edition)
 - PS5 - Fedora (Test Build)
 - PS5 - Fedora Manager [get here](https://github.com/nexgen999/ps5-fedora-manager)
-- PS5 - Fedora Addons-Scripts
+- PS5 - Fedora Addons-Scripts [get here](https://github.com/nexgen999/PS5-Fedora_Addons-Scripts)
 - PS5 - Fedora Guides [Guides](https://github.com/nexgen999/PS5-Fedora-Guides)
 - PS5 - Fedora Video Tutorial [Video Guide](https://nexgen999.github.io/PS5-Fedora-Guides/)
 
