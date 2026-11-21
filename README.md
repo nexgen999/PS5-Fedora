@@ -1,10 +1,24 @@
-# 🎮 PS5 Fedora Project
+<div align="center">
 
-assets/Logo_fedoralogo.png
+  <h1>🎮 PS5 Fedora Project</h1>
 
-[![Fedora](https://img.shields.io/badge/OS-Fedora%2045-blue?logo=fedora)](https://getfedora.org/)
-[![Hardware](https://img.shields.io/badge/Hardware-PlayStation%205-black?logo=playstation)](https://github.com/ps5-linux)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  <p>
+    <img src="assets/Logo_fedoralogo.png" alt="PS5 Fedora Project Logo" width="180" />
+  </p>
+
+  <p>
+    <a href="https://fedoraproject.org/">
+      <img src="https://img.shields.io/badge/OS-Fedora%2045-blue?logo=fedora" alt="Fedora" />
+    </a>
+    <a href="https://github.com/ps5-linux">
+      <img src="https://img.shields.io/badge/Hardware-PlayStation%205-black?logo=playstation" alt="Hardware" />
+    </a>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
@@ -28,5 +42,11 @@ assets/Logo_fedoralogo.png
 
 ## 🤝 Credits & Acknowledgments
 
-* [ps5-linux Organization](https://github.com/ps5-linux) for kernel development, hardware reverse-engineering, and base OS images.
-* Fedora Project & GNOME Desktop Environment.
+- [ps5-linux Organization](https://github.com/ps5-linux) for kernel development, hardware reverse-engineering, and base OS images.
+- Fedora Project & GNOME Desktop Environment.
+
+[![Fedora](https://img.shields.io/badge/OS-Fedora%2045-blue?logo=fedora)](https://getfedora.org/)
+[![Hardware](https://img.shields.io/badge/Hardware-PlayStation%205-black?logo=playstation)](https://github.com/ps5-linux)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
