@@ -26,7 +26,7 @@
 
 ### 📌 À propos de ce dépôt
 
-- PS5 - Fedora (Desktop Edition)
+- PS5 - Fedora (Desktop Edition) [get here](https://github.com/nexgen999/PS5-Fedora_Desktop-Edition)
 - PS5 - Fedora (Gaming Edition)
 - PS5 - Fedora (Test Build)
 - PS5 - Fedora Manager [get here](https://github.com/nexgen999/ps5-fedora-manager)
