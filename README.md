@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🎮 PS5 Fedora Project</h1>
+  <h1>PS5 Fedora Project</h1>
 
   <p>
     <img src="assets/Logo_fedoralogo.png" alt="PS5 Fedora Project Logo" width="180" />
