@@ -10,8 +10,8 @@
 
 ### 📌 À propos de ce dépôt
 
-PS5 - Fedora (Desktop Edition)
-PS5 - Fedora (Gaming Edition)
-PS5 - Fedora Manager
-PS5 - Fedora Addons-Scripts
-PS5 - Fedora Guides
+- PS5 - Fedora (Desktop Edition)
+- PS5 - Fedora (Gaming Edition)
+- PS5 - Fedora Manager
+- PS5 - Fedora Addons-Scripts
+- PS5 - Fedora Guides
