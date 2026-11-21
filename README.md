@@ -12,6 +12,12 @@
 
 - PS5 - Fedora (Desktop Edition)
 - PS5 - Fedora (Gaming Edition)
+- PS5 - Fedora (Test Build)
 - PS5 - Fedora Manager
 - PS5 - Fedora Addons-Scripts
 - PS5 - Fedora Guides
+
+## 🤝 Credits & Acknowledgments
+
+* [ps5-linux Organization](https://github.com/ps5-linux) for kernel development, hardware reverse-engineering, and base OS images.
+* Fedora Project & GNOME Desktop Environment.
