@@ -1,6 +1,6 @@
 # Récapitulatif des ajouts — Build de test Fedora 45 GNOME (PS5)
 
-Ce document liste l'ensemble des paquets, codecs, outils, scripts et réglages ajoutés autour de ta base `image.yaml` pour la build de test orientée « système complet par défaut ».
+Ce document liste l'ensemble des paquets, codecs, outils, scripts et réglages ajoutés autour de la base `image.yaml` pour la build de test orientée « système complet par défaut ».
 
 ---
 
